@@ -2,7 +2,7 @@
 ### 1.Balance_Seiza
 #### URL <https://unityroom.com/games/balance_seiza>
 ##### Production period: 2021/12 4 days
-##### Exhibits: Unity1week
+##### Exhibition: Unity1week Theme「正」
 
 ### 2.AbsolCoord
 #### URL <https://youtu.be/rsjQ6iqHXf8>
